@@ -20,9 +20,9 @@ A simple calculator application built using **Java** in **Android Studio**. This
 
 ## 🎥 Demo
 
-*(You can include a GIF or screenshot here once available)*  
-![Calculator Screenshot](images/calculator_screenshot.png)
 
+![Calculator Screenshot](images/img1.png)
+![Calculator Screenshot](images/img2.png)
 ---
 
 ## 🛠️ Tech Stack
