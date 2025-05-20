@@ -19,7 +19,7 @@ A simple calculator application built using **Java** in **Android Studio**. This
 ---
 
 
-##🖥️ App Screenshots
+## 📱 App Screenshots
 
 <p align="center">
   <img src="images/img1.jpg" alt="Calculator Screenshot 1" width="300" style="margin-right: 30px;"/>
