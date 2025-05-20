@@ -18,12 +18,14 @@ A simple calculator application built using **Java** in **Android Studio**. This
 
 ---
 
-## 🎥 Demo
+
+<h3 align="center">🖥️ App Screenshots</h3>
 
 <p align="center">
-  <img src="images/img1.jpg" alt="Calculator Screenshot" width="400"/>
-  <img src="images/img2.jpg" alt="Calculator Screenshot" width="400"/>
+  <img src="images/img1.jpg" alt="Calculator Screenshot 1" width="300" style="margin-right: 20px;"/>
+  <img src="images/img2.jpg" alt="Calculator Screenshot 2" width="300"/>
 </p>
+
 
 
 ---
