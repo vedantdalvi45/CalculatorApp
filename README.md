@@ -21,8 +21,8 @@ A simple calculator application built using **Java** in **Android Studio**. This
 ## 🎥 Demo
 
 
-![Calculator Screenshot](images/img1.png)
-![Calculator Screenshot](images/img2.png)
+![Calculator Screenshot](images/img1.jpg)
+![Calculator Screenshot](images/img2.jpg)
 ---
 
 ## 🛠️ Tech Stack
