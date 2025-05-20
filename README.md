@@ -22,6 +22,7 @@ A simple calculator application built using **Java** in **Android Studio**. This
 
 <p align="center">
   <img src="images/img1.jpg" alt="Calculator Screenshot" width="400"/>
+  <img src="images/img2.jpg" alt="Calculator Screenshot" width="400"/>
 </p>
 
 
