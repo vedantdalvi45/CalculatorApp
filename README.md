@@ -21,10 +21,17 @@ A simple calculator application built using **Java** in **Android Studio**. This
 
 <h3 align="center">🖥️ App Screenshots</h3>
 
-<p align="center">
-  <img src="images/img1.jpg" alt="Calculator Screenshot 1" width="300" style="margin-right: 20px;"/>
-  <img src="images/img2.jpg" alt="Calculator Screenshot 2" width="300"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/img1.jpg" alt="Calculator Screenshot 1" width="300"/>
+    </td>
+    <td align="center" style="padding-left: 20px;">
+      <img src="images/img2.jpg" alt="Calculator Screenshot 2" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 
 
